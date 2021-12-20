@@ -31,20 +31,20 @@
 <br />
 <div align="center">
   <a href="https://github.com/ratalie/web3">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+<!--     <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">web2 - web3 </h3>
 
   <p align="center">
-    project_description
+    web2 - web3 diagrams, structures, architecture - hybrid
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ratalie/web3"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/ratalie/web3/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/ratalie/web3/issues">Request Feature</a>
   </p>
 </div>
 
@@ -80,7 +80,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com) - coming soon
+<!--[![Product Name Screen Shot][product-screenshot]](https://example.com) - coming soon-->
 
 This is a start to get together some concepts, the idea is to bring clarity and then depth to concepts of web2 + web3 and how they work together for real.
 
